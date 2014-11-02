@@ -8,3 +8,4 @@ public class HackException extends Exception {
     public HackException(String message) {
         super(message);
     }
+}

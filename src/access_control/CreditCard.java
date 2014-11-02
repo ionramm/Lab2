@@ -1,4 +1,4 @@
-package AccessControl;
+package access_control;
 
 /**
  * Created by ION on 24.10.2014.

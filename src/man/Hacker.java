@@ -32,11 +32,11 @@ public class Hacker extends Man implements IHacker {
     @Override
     public void Hack() {
         if (getName() == null) {
-            System.out.println("Invalid student name handled. No singing today!");
+            System.out.println("Card Hacked!");
             return;
         }
 
-        System.out.println(getName() + " is singing Lady Gaga");
+        System.out.println(getName() + " has hacked.");
     }
 
     @Override
